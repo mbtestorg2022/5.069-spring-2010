@@ -4,19 +4,317 @@ title: Calendar
 uid: 27876259-c47f-a096-e17b-298c9ee71666
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | {{< h 3 >}}Introduction{{< /h >}} {{< br >}}{{< br >}} Overview, textbooks, history of crystallography {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | {{< h 3 >}}Symmetry in 2D{{< /h >}} {{< br >}}{{< br >}} Definition of symmetry, introduction of symmetry operators {{< br >}}{{< br >}} Compatibility of symmetry operators with translation {{< br >}}{{< br >}} Combining symmetry operations and determination of plane groups {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | {{< h 3 >}}Symmetry in 3D{{< /h >}} {{< br >}}{{< br >}} Extension of the plane groups concept to the third dimension: space groups {{< br >}}{{< br >}} Introduction of screw axes and glide planes {{< br >}}{{< br >}} Point groups vs. space groups {{< br >}}{{< br >}} The unit cell and crystallographic conventions {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | {{< h 3 >}}X-rays and matter{{< /h >}} {{< br >}}{{< br >}} X-ray generation {{< br >}}{{< br >}} Diffraction experiment with optical grids and laser pointers {{< br >}}{{< br >}} Convolution theorem and Fourier transformation {{< br >}}{{< br >}} Introduction of Bragg's law and Miller indices {{< br >}}{{< br >}}  | Student presentations of current homework assignment due two days after Lec #4 |
-| 5 | {{< h 3 >}}Geometry of diffraction{{< /h >}} {{< br >}}{{< br >}} Reciprocal space vs. real space {{< br >}}{{< br >}} Ewald construction as a geometric interpretation of Bragg's law {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | {{< h 3 >}}Structure factors{{< /h >}} {{< br >}}{{< br >}} Real atoms are no point atoms (atomic form factors) and show thermal motion (atomic displacement factors) {{< br >}}{{< br >}} Having more than one atom per unit cell leads to structure factors {{< br >}}{{< br >}} Fourier transformation gives rise to electron density; crystallographic resolution {{< br >}}{{< br >}}  | Student presentations of current homework assignment due two days after Lec #6 |
-| 7 | {{< h 3 >}}Structure factors II{{< /h >}} {{< br >}}{{< br >}} Complex numbers, Euler's equation and the argand plane {{< br >}}{{< br >}} Introduction of the phase problem {{< br >}}{{< br >}}  | &nbsp; |
-| 8 | {{< h 3 >}}Symmetry in reciprocal space{{< /h >}} {{< br >}}{{< br >}} Introduction of Friedel's law and laue groups {{< br >}}{{< br >}} Space group determination: &#124;_E_2\-1&#124; statistics, systematic absences, crystallographic directions for triclinic, monoclinic, orthorhombic and tetragonal systems {{< br >}}{{< br >}} Introduction of the Patterson function and Harker sections, as well as direct methods for structure solution {{< br >}}{{< br >}}  | Student presentations of current homework assignment due two days after Lec #8 |
-| 9 | {{< h 3 >}}Structure refinement{{< /h >}} {{< br >}}{{< br >}} Different types of electron density maps (_Fo_, _Fc_, _Fo_\-_Fc_, etc.) {{< br >}}{{< br >}} Introduction of anisotropic displacement parameters {{< br >}}{{< br >}} Minimization functions: the least-squares approach and different R-factors {{< br >}}{{< br >}} Crystallographic parameters, constraints and restraints {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | {{< h 3 >}}Structure refinement II{{< /h >}} {{< br >}}{{< br >}} Problems and pitfalls: wrong space group, atom type assignment (all electrons are blue), disorder, twinning {{< br >}}{{< br >}} What are artifacts (libration, C-C triple bonds, Fourier truncation ripples, etc.)? {{< br >}}{{< br >}} Finding the hydrogen atoms, "riding model" {{< br >}}{{< br >}}  | Student presentations of current homework assignment due two days after Lec #10 |
-| 11 | {{< h 3 >}}Anomalous scattering{{< /h >}} {{< br >}}{{< br >}} Absorption of X-ray photons leads to loss of symmetry in orbital geometry, which results in a violation of Fridel's law {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | {{< h 3 >}}Practical aspects and related methods{{< /h >}} {{< br >}}{{< br >}} Growing crystals and keeping them alive (never remove the mother liquor!) {{< br >}}{{< br >}} Mounting crystals onto the diffractometer {{< br >}}{{< br >}} Short introduction of powder diffraction, neutron diffraction and EXAFS {{< br >}}{{< br >}} Crystallographic data bases (ICSD, CSD, PDB, reciprocal net) {{< br >}}{{< br >}}  | Student presentations of current homework assignment due two days after Lec #12 |
-| 13 | {{< h 3 >}}Quick recap{{< /h >}} {{< br >}}{{< br >}} Symmetry, Bragg's law, Miller indices, real space vs. reciprocal space, Ewald construction, structure factors, electron density, symmetry in reciprocal space, laue groups vs. point groups vs. space groups, space group determination, Patterson function, structure refinement, parameters/constraints/restraints, anisotropic displacement parameters, libration, hydrogen atoms {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | {{< h 3 >}}Exam{{< /h >}} {{< br >}}{{< br >}} You have 50 minutes to answer all questions. You can use pens, a calculator, ruler and compass, as well as a letter sized piece of paper with anything written on it. No books or other material is allowed. {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Introduction
+
+Overview, textbooks, history of crystallography
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Symmetry in 2D
+
+Definition of symmetry, introduction of symmetry operators
+
+Compatibility of symmetry operators with translation
+
+Combining symmetry operations and determination of plane groups
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Symmetry in 3D
+
+Extension of the plane groups concept to the third dimension: space groups
+
+Introduction of screw axes and glide planes
+
+Point groups vs. space groups
+
+The unit cell and crystallographic conventions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### X-rays and matter
+
+X-ray generation
+
+Diffraction experiment with optical grids and laser pointers
+
+Convolution theorem and Fourier transformation
+
+Introduction of Bragg's law and Miller indices
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations of current homework assignment due two days after Lec #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Geometry of diffraction
+
+Reciprocal space vs. real space
+
+Ewald construction as a geometric interpretation of Bragg's law
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Structure factors
+
+Real atoms are no point atoms (atomic form factors) and show thermal motion (atomic displacement factors)
+
+Having more than one atom per unit cell leads to structure factors
+
+Fourier transformation gives rise to electron density; crystallographic resolution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations of current homework assignment due two days after Lec #6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Structure factors II
+
+Complex numbers, Euler's equation and the argand plane
+
+Introduction of the phase problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Symmetry in reciprocal space
+
+Introduction of Friedel's law and laue groups
+
+Space group determination: |_E_2\-1| statistics, systematic absences, crystallographic directions for triclinic, monoclinic, orthorhombic and tetragonal systems
+
+Introduction of the Patterson function and Harker sections, as well as direct methods for structure solution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations of current homework assignment due two days after Lec #8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Structure refinement
+
+Different types of electron density maps (_Fo_, _Fc_, _Fo_\-_Fc_, etc.)
+
+Introduction of anisotropic displacement parameters
+
+Minimization functions: the least-squares approach and different R-factors
+
+Crystallographic parameters, constraints and restraints
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Structure refinement II
+
+Problems and pitfalls: wrong space group, atom type assignment (all electrons are blue), disorder, twinning
+
+What are artifacts (libration, C-C triple bonds, Fourier truncation ripples, etc.)?
+
+Finding the hydrogen atoms, "riding model"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations of current homework assignment due two days after Lec #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Anomalous scattering
+
+Absorption of X-ray photons leads to loss of symmetry in orbital geometry, which results in a violation of Fridel's law
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Practical aspects and related methods
+
+Growing crystals and keeping them alive (never remove the mother liquor!)
+
+Mounting crystals onto the diffractometer
+
+Short introduction of powder diffraction, neutron diffraction and EXAFS
+
+Crystallographic data bases (ICSD, CSD, PDB, reciprocal net)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations of current homework assignment due two days after Lec #12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Quick recap
+
+Symmetry, Bragg's law, Miller indices, real space vs. reciprocal space, Ewald construction, structure factors, electron density, symmetry in reciprocal space, laue groups vs. point groups vs. space groups, space group determination, Patterson function, structure refinement, parameters/constraints/restraints, anisotropic displacement parameters, libration, hydrogen atoms
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Exam
+
+You have 50 minutes to answer all questions. You can use pens, a calculator, ruler and compass, as well as a letter sized piece of paper with anything written on it. No books or other material is allowed.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

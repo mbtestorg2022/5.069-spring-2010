@@ -21,8 +21,8 @@ Links to Some Interesting Crystallographic Homepages
 
 [Twin Refinement with SHELXL by Regine Herbst-Irmer](https://scripts.iucr.org/cgi-bin/paper?jz0004)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[High Resolution Protein Refinement by Thomas R. Schneider (PDF)](http://web.mit.edu/pmueller/www/ACA2007/WK01/Protein_Refinement.pdf)
+[High Resolution Protein Refinement by Thomas R. Schneider (PDF)](http://web.mit.edu/pmueller/www/ACA2007/WK01/Protein_Refinement.pdf)
 
-Refinement of Disorder with SHELXL by Peter Mueller (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/pmueller/www/ACA2007/WK01/Disorder.pdf))
+Refinement of Disorder with SHELXL by Peter Mueller ([PDF](http://web.mit.edu/pmueller/www/ACA2007/WK01/Disorder.pdf))
 
 [Escher Web Sketch by Wes Hardaker and Gervais Chapuis](http://escher.epfl.ch/escher/)

@@ -5,6 +5,7 @@ description: Lecture presentation on Symmetry in 2D, the definition of symmetry,
   combining symmetry operations and determination of plane groups.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-069-crystal-structure-analysis-spring-2010/78abdd72d7c390881daa08d7b4b72287_symm_handout1_re.pdf
 file_type: application/pdf
+parent_uid: 53c877cb-19eb-8ab1-b45d-04ea7fc5b412
 resourcetype: Document
 title: Symmetry in 2D
 uid: 78abdd72-d7c3-9088-1daa-08d7b4b72287
